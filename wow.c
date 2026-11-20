@@ -1,0 +1,2 @@
+#incldude<aoio>
+intmain(
